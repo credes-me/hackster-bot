@@ -1,0 +1,86 @@
+{
+    "categories": [
+      {
+        "name": "Cybersecurity Incidents",
+        "tags": [
+          "Cyber Incident Reports",
+          "Data Breaches",
+          "Security Breaches",
+          "Cyber Attacks",
+          "Zero-Day Vulnerabilities",
+          "Ransomware Attacks",
+          "Phishing Scams",
+          "Insider Threats",
+          "Social Engineering Tactics"
+        ]
+      },
+      {
+        "name": "Security Techniques & Best Practices",
+        "tags": [
+          "Vulnerability Management",
+          "Incident Response Strategies",
+          "Penetration Testing Methods",
+          "Security Awareness Training",
+          "Cybersecurity Best Practices",
+          "Threat Hunting Techniques",
+          "Red Teaming & Blue Teaming",
+          "Threat Intelligence Insights",
+          "Digital Forensics"
+        ]
+      },
+      {
+        "name": "Security Tools & Technologies",
+        "tags": [
+          "Exploit Development",
+          "Hacking Tools & Resources",
+          "Cryptography Solutions",
+          "Network Security Tools",
+          "Application Security Techniques",
+          "Cloud Security Solutions",
+          "IoT Security Measures",
+          "Mobile Security Tips",
+          "SIEM Tools and Platforms",
+          "DevSecOps Integration"
+        ]
+      },
+      {
+        "name": "Research & Development",
+        "tags": [
+          "Bug Bounty Programs",
+          "Cybersecurity Writeups",
+          "Security Research Papers",
+          "Malware Analysis Reports",
+          "Threat Intelligence Reports"
+        ]
+      },
+      {
+        "name": "Education & Community",
+        "tags": [
+          "Capture the Flag (CTF) Events",
+          "Cybersecurity Training",
+          "Security Conference Highlights",
+          "Expert Interviews",
+          "Opinion Pieces & Analysis"
+        ]
+      },
+      {
+        "name": "Industry News & Updates",
+        "tags": [
+          "Latest Cybersecurity News",
+          "Patch Updates & Alerts",
+          "Security Policy Changes",
+          "Cyber Law & Regulations"
+        ]
+      },
+      {
+        "name": "Emerging Trends & Technologies",
+        "tags": [
+          "AI in Cybersecurity",
+          "Blockchain Security Innovations",
+          "Biometrics Security Advances",
+          "Supply Chain Security Updates"
+        ]
+      }
+    ]
+  }
+  
